@@ -1,12 +1,10 @@
 {
-  "name": "backend",
+  "name": "loja-informatica-backend",
   "version": "1.0.0",
-  "main": "index.js",
-  "type": "module",
-  
+  "main": "server.js",
+  "type": "commonjs",
   "scripts": {
-    "start": "node api/index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node server.js"
   },
   "keywords": [],
   "author": "",
