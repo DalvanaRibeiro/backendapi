@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "Computador Gamer",
+    "price": 4500,
+    "description": "PC Gamer com processador i9, 16GB RAM e 1TB SSD.",
+    "stock": 10
+  },
+  {
+    "id": 2,
+    "name": "Notebook Ultrafino",
+    "price": 2500,
+    "description": "Notebook leve e portátil, ideal para tarefas diárias.",
+    "stock": 5
+  }
+]
